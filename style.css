@@ -98,3 +98,18 @@ body {
 .operation:nth-child(20) {
     font-size: 20px;
     background-color: rgb(238, 160, 160);}
+
+
+    /* Media queries for responsiveness */
+
+    @media (max-width: 600px) {
+
+    }
+
+    @media (min-width: 601px) and (max-width: 1024px) {
+
+    }
+
+    @media (min-width: 1025px){
+        
+    }
